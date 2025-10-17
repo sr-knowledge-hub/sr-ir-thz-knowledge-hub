@@ -1,0 +1,11 @@
+format: jb-book
+root: coverpage
+parts:
+  - caption: Introduction
+    chapters:
+      - file: introduction/preface
+      - file: introduction/terminology
+  - caption: Reference
+    chapters:
+      - url: https://graspologic.readthedocs.io/en/latest/
+        title: Graspologic Documentation
