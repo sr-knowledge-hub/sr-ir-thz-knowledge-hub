@@ -2,7 +2,7 @@
 
 ### Eric W. Bridgeford, Alex Loftus, Joshua T. Vogelstein
 
-```{figure} Images/umap_pedigo_small.jpg
+```{figure} Images/test_image.svg
 ---
 height: 700px
 name: maggot-connectome
