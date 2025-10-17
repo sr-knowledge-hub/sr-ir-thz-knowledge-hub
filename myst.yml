@@ -1,0 +1,15 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  id: 4ffc883f-710b-4fc2-bd33-8bcf71427666
+  title: Synchrotron IR and THz Knowledge Hub
+  # description:
+  # keywords: []
+  # authors: Raul Freitas, Ferenc Borondics
+  github: https://github.com/
+  # To autogenerate a Table of Contents, run "jupyter book init --write-toc"
+site:
+  template: book-theme
+  # options:
+  #   favicon: favicon.ico
+  #   logo: site_logo.png
