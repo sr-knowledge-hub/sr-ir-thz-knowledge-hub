@@ -3,7 +3,34 @@
 Contributions are welcome, and they are greatly appreciated! Every little bit
 helps, and credit will always be given. You can contribute in the ways listed below.
 
-## Report Bugs
+## 1. Get Started
+
+Ready to contribute? Here's how to set up the `Synchrotron IR-THz Knowledge Hub` Jupyter Book project for local development.
+
+GitHub: https://github.com/sr-knowledge-hub/sr-ir-thz-knowledge-hub
+
+1. Fork the repo on GitHub.
+2. Clone your fork locally.
+3. Install your local copy into a virtualenv, e.g., using `conda`.
+4. Create a branch for local development and make changes locally.
+5. Commit your changes and push your branch to GitHub.
+6. Submit a pull request through the GitHub website.
+
+## 2. Write Documentation
+
+The Synchrotron IR-THz Knowledge Hub initiative covers a broad range of topics, and any contribution is greatly appreciated — especially when adding new content. Please include references whenever possible and avoid copying text directly from external sources.
+
+When creating graphics, we strongly recommend following the visual identity guidelines below to maintain a consistent presentation and more organized communication.
+
+### 2.1 Graphics dimensions
+
+### 2.2 Fonts and lines styles
+
+### 2.3 Colors code
+
+### 2.4 Graphics examples
+
+## 3. Report Bugs or Content Mistakes
 
 Report bugs using GitHub issues.
 
@@ -13,23 +40,13 @@ If you are reporting a bug, please include:
 * Any details about your local setup that might be helpful in troubleshooting.
 * Detailed steps to reproduce the bug.
 
-## Fix Bugs
+## 4. Fix Bugs
 
 Look through the GitHub issues for bugs. Anything tagged with "bug" and "help
 wanted" is open to whoever wants to implement it.
 
-## Implement Features
 
-Look through the GitHub issues for features. Anything tagged with "enhancement"
-and "help wanted" is open to whoever wants to implement it.
-
-## Write Documentation
-
-Network Machine Learning in Python could always use more documentation, whether as part of the
-official Network Machine Learning in Python docs, in docstrings, or even on the web in blog posts,
-articles, and such.
-
-## Submit Feedback
+## 5. Submit Feedback
 
 The best way to send feedback is to file an issue on GitHub.
 
@@ -40,17 +57,3 @@ If you are proposing a feature:
 * Remember that this is a volunteer-driven project, and that contributions
   are welcome :)
 
-## Get Started
-
-Ready to contribute? Here's how to set up `Network Machine Learning in Python` for local development.
-
-1. Fork the repo on GitHub.
-2. Clone your fork locally.
-3. Install your local copy into a virtualenv, e.g., using `conda`.
-4. Create a branch for local development and make changes locally.
-5. Commit your changes and push your branch to GitHub.
-6. Submit a pull request through the GitHub website.
-
-## Code of Conduct
-
-Please note that the Network Machine Learning in Python project is released with a [Contributor Code of Conduct](CONDUCT.md). By contributing to this project you agree to abide by its terms.

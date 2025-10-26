@@ -1,5 +1,6 @@
 format: jb-book
-root: coverpage
+root: coverpage.md
+
 parts:
   - caption: Introduction
     chapters:
@@ -9,3 +10,4 @@ parts:
     chapters:
       - url: https://graspologic.readthedocs.io/en/latest/
         title: Graspologic Documentation
+  

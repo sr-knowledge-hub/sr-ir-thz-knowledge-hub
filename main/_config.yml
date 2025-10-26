@@ -4,8 +4,8 @@
 
 # Book settings
 title: Hands-on Network Machine Learning with Scikit-Learn and Graspologic
-author: Eric Bridgeford, Alex Loftus, and Joshua Vogelstein
-copyright: "2022" # to be placed in the footer
+author: Raul Freitas and Ferenc Borondics
+copyright: "2025" # to be placed in the footer
 logo: logo.png
 parse:
   myst_enable_extensions:
